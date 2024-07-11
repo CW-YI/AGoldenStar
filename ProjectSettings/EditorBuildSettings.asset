@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 9b9679e544b108d46b53e7d468899942
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 0d8824cb84bc05f4db82b74a13e12cc0
+  - enabled: 1
+    path: Assets/Scenes/GameClear.unity
+    guid: 686665292ea41224a8cf7a3eab1a899b
+  - enabled: 1
+    path: Assets/Scenes/Stage/Fox.unity
+    guid: b3f572bef28ad614292ee722e2766bdd
+  - enabled: 1
+    path: Assets/Scenes/Stage/Snake.unity
+    guid: f457a32caf3dda84e9b74bf99a8d7934
+  - enabled: 1
+    path: Assets/Scenes/Stage/Bear.unity
+    guid: 515d86f0e94a0e74f90c05d4eded0834
+  - enabled: 1
+    path: Assets/Scenes/Stage/Wolf.unity
+    guid: e09e03faf9eb3e54296149e363af43af
+  m_configObjects: {}
